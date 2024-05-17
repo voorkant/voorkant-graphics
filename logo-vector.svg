@@ -29,16 +29,24 @@
      borderlayer="true"
      showguides="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="334.46151"
-     inkscape:cy="253.14423"
-     inkscape:window-width="1280"
+     inkscape:cx="100.40916"
+     inkscape:cy="254.55844"
+     inkscape:window-width="2560"
      inkscape:window-height="1339"
-     inkscape:window-x="20"
-     inkscape:window-y="20"
-     inkscape:window-maximized="0"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient84450"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop84448" />
+    </linearGradient>
     <linearGradient
        id="linearGradient33714"
        inkscape:swatch="solid">
@@ -241,6 +249,108 @@
        y1="66.049324"
        x2="177.18521"
        y2="66.049324" />
+    <symbol
+       id="light-bulb"
+       viewBox="0 0 12 16">
+      <title
+         id="title70303">light-bulb</title>
+      <path
+         d="M 6.5,0 C 3.48,0 1,2.19 1,5 c 0,0.92 0.55,2.25 1,3 1.34,2.25 1.78,2.78 2,4 v 1 H 9 V 12 C 9.22,10.78 9.66,10.25 11,8 11.45,7.25 12,5.92 12,5 12,2.19 9.52,0 6.5,0 Z m 3.64,7.48 C 9.89,7.92 9.67,8.28 9.47,8.59 8.61,10 8.22,10.65 8.02,11.82 8,11.87 8,11.93 8,11.99 H 5 C 5,11.93 5,11.86 4.98,11.82 4.78,10.65 4.39,9.99 3.53,8.59 3.33,8.28 3.11,7.92 2.86,7.48 2.44,6.78 2,5.65 2,5 2,2.8 4.02,1 6.5,1 7.72,1 8.86,1.42 9.72,2.19 10.55,2.94 11,3.94 11,5 11,5.66 10.56,6.78 10.14,7.48 Z M 4,14 H 9 C 8.77,15.14 7.7,16 6.5,16 5.3,16 4.23,15.14 4,14 Z"
+         id="path70305" />
+    </symbol>
+    <symbol
+       id="plugin">
+      <title
+         id="title2402">plugin</title>
+      <path
+         d="M 7,3 C 7,2.447 6.552,2 6,2 5.448,2 5,2.447 5,3 v 3 h 2 z m 4,0 C 11,2.447 10.553,2 10,2 9.447,2 9,2.447 9,3 v 3 h 2 z M 3,7 c 0,2.419 1.718,4.436 4,4.899 V 14 H 9 V 11.899 C 11.282,11.435 13,9.419 13,7 H 3 Z"
+         id="path2404" />
+    </symbol>
+    <symbol
+       id="wifi-full-secure">
+      <title
+         id="title13913">wifi-full-secure</title>
+      <g
+         transform="translate(169.57144,223.42822)"
+         id="g5937-10" />
+      <g
+         id="g6442-48"
+         transform="translate(-753.45981,336.4283)">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect1687-53"
+           width="90"
+           height="90"
+           x="1037.0312"
+           y="22.362379" />
+        <g
+           transform="translate(0.99999982,3.0004268)"
+           id="g6192-4">
+          <rect
+             y="86.361954"
+             x="1103.0312"
+             height="14.000004"
+             width="20"
+             id="rect6726-8-5"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;enable-background:accumulate" />
+          <rect
+             ry="8"
+             rx="8"
+             y="74.361954"
+             x="1105.0312"
+             height="24"
+             width="16"
+             id="rect6190-4"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate" />
+        </g>
+        <circle
+           transform="rotate(-90)"
+           id="circle4181-26"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:16.3448;marker:none;enable-background:accumulate"
+           cx="-94.362381"
+           cy="1082.0312"
+           r="9" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:#808080;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="circle4187-57"
+           d="m 1041.3726,52.703743 a 57.5,57.5 0 0 1 40.6586,-16.841362 57.5,57.5 0 0 1 40.6587,16.84136" />
+        <path
+           id="circle4189-0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:#808080;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="m 1054.1005,65.431664 a 39.5,39.5 0 0 1 27.9307,-11.569283 39.5,39.5 0 0 1 27.9308,11.569282" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;stroke:#808080;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="circle4191-61"
+           d="m 1066.8285,78.159586 a 21.5,21.5 0 0 1 15.2027,-6.297205 21.5,21.5 0 0 1 15.2028,6.297204" />
+      </g>
+    </symbol>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient30097"
+       id="linearGradient84452"
+       x1="1"
+       y1="8"
+       x2="12"
+       y2="8"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient30097"
+       id="linearGradient84460"
+       x1="283.57144"
+       y1="403.79068"
+       x2="373.57144"
+       y2="403.79068"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient30097"
+       id="linearGradient84468"
+       x1="3"
+       y1="8"
+       x2="13"
+       y2="8"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -273,5 +383,22 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.7461px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.372354;fill-opacity:1.0;fill:url(#linearGradient33754)"
          x="24.835154"
          y="79.096649">voorkant</tspan></text>
+    <use
+       xlink:href="#light-bulb"
+       width="12"
+       height="16"
+       style="fill:url(#linearGradient84452);stroke:none;fill-opacity:1.0"
+       id="use83037"
+       transform="matrix(1.3378085,0,0,1.3378085,161.74701,101.12818)" />
+    <use
+       xlink:href="#plugin"
+       style="fill:url(#linearGradient84468);stroke:none;fill-opacity:1.0"
+       id="use83216"
+       transform="matrix(1.602729,0,0,1.602729,92.683214,97.911636)" />
+    <use
+       xlink:href="#wifi-full-secure"
+       style="fill:url(#linearGradient84460);stroke:none;fill-opacity:1.0"
+       id="use83684"
+       transform="matrix(0.26458331,0,0,0.26458331,-45.71149,2.8000136)" />
   </g>
 </svg>
